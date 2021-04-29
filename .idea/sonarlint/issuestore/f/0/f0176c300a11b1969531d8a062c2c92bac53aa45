@@ -1,0 +1,14 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á’ÒÅøÿÿÿÿ8¤ÌÐ¤‚/
+Q
+java:S3740"/Provide the parametrized type for this generic.(ïÕ©†úÿÿÿÿ8šë€¥‚/
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î·Ðù8‡Çò¤‚/
+8
+java:S3626'"Remove this redundant jump.(ûÁÝ…8û˜ù¤‚/
+Q
+java:S3740"/Provide the parametrized type for this generic.(äòýÔúÿÿÿÿ8™¼ˆ¥‚/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á’ÒÅøÿÿÿÿ8¤ÌÐ¤‚/
+L
+java:S1066"/Merge this if statement with the enclosing one.(èµ²±8ó‰Ž¥‚/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á’ÒÅøÿÿÿÿ8•ÛÊ¤‚/
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î·Ðù8ÆÈù¤‚/
